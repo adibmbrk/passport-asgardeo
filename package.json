@@ -1,0 +1,34 @@
+{
+  "name": "passport-asgardeo",
+  "version": "0.1.1",
+  "description": "Asgardeo authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "openid",
+    "asgardeo",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "oauth": "0.9.x",
+    "passport-strategy": "1.x.x"
+  },
+  "devDependencies": {
+    "chai": "2.x.x",
+    "chai-passport-strategy": "3.x.x",
+    "jws": "^4.0.0",
+    "make-node": "0.3.x",
+    "mocha": "2.x.x",
+    "proxyquire": "^1.7.10",
+    "sinon": "^1.17.6"
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "mocha --require ./test/bootstrap/node --recursive"
+  }
+}
