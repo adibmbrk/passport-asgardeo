@@ -55,5 +55,8 @@
     "test": "mocha --require ./__tests__/bootstrap/node --recursive",
     "test:ci": "mocha --require ./__tests__/bootstrap/node --recursive",
     "typecheck": "tsc --project tsconfig.json --noEmit"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
