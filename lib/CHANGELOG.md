@@ -1,5 +1,15 @@
 # @asgardeo/passport-asgardeo
 
+## 0.0.2
+
+### Patch Changes
+
+- [#9](https://github.com/asgardeo/passport-asgardeo/pull/9)
+  [`ee37e3b`](https://github.com/asgardeo/passport-asgardeo/commit/ee37e3b7a2071d5c194f2aef4807e29c2f6eeb73) Thanks
+  [@brionmario](https://github.com/brionmario)! - ### v0.0.2 🎉
+
+  - Add README to the released artifact.
+
 ## 0.0.1
 
 ### Patch Changes
