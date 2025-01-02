@@ -1,6 +1,6 @@
 {
   "name": "@asgardeo/passport-asgardeo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Asgardeo Strategy for Passport.js",
   "author": "WSO2",
   "license": "Apache-2.0",
