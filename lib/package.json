@@ -4,13 +4,13 @@
   "description": "Asgardeo Strategy for Passport.js",
   "author": "WSO2",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/asgardeo/asgardeo-passport#readme",
+  "homepage": "https://github.com/asgardeo/passport-asgardeo#readme",
   "bugs": {
-    "url": "https://github.com/asgardeo/asgardeo-passport/issues"
+    "url": "https://github.com/asgardeo/passport-asgardeo/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/asgardeo/asgardeo-passport",
+    "url": "https://github.com/asgardeo/passport-asgardeo",
     "directory": "lib"
   },
   "keywords": [
