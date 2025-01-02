@@ -1,5 +1,13 @@
 # @asgardeo/passport-asgardeo
 
+## 0.0.3
+
+### Patch Changes
+
+- [#11](https://github.com/asgardeo/passport-asgardeo/pull/11)
+  [`87bd4cb`](https://github.com/asgardeo/passport-asgardeo/commit/87bd4cb5ecf9a3a584701d62efd10b18c54b2854) Thanks
+  [@adibmbrk](https://github.com/adibmbrk)! - Fix incorrect URLs for npm
+
 ## 0.0.2
 
 ### Patch Changes
